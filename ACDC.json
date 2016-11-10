@@ -3,12 +3,12 @@
 		"author" : "Madmatmax", 
 		"name" : "ACDC", 
 		"keyWords" : "keyword1,keyword2", 
-		"version" : "1.0.5", 
+		"version" : "1.0.7", 
 		"dofusVersion" : "2.38", 
-		"description" : "thème ACDC pour les fans de rock, surtout pim", 
+		"description" : "thÃ¨me ACDC pour les fans de rock, surtout pim", 
 		"url" : "https://github.com/balderus/dofusrepo/blob/master/ACDC.zip?raw=true", 
 		"previewUrl" : "https://github.com/balderus/dofusrepo/raw/master/ACDC.jpg", 
 		"creationDate" : "06/11/2016", 
-		"modificationDate" : "08/11/2016" 
+		"modificationDate" : "10/11/2016" 
 	} 
 ]  
